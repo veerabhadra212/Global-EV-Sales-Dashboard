@@ -1,7 +1,5 @@
 # Global-EV-Sales-Dashboard
 
-# Global EV Sales Analysis (2010 - 2025) ⚡🚗
-
 ### Project Overview
 As the automotive industry undergoes a massive shift toward sustainable energy, global stakeholders struggle to navigate highly fragmented data regarding Electric Vehicle (EV) adoption. This project provides a unified, interactive Power BI dashboard that synthesizes complex, multi-metric EV data to uncover actionable insights regarding regional market penetration, powertrain shifts, and energy consumption impacts.
 
