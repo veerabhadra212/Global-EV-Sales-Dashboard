@@ -54,7 +54,7 @@ Geospatial Granularity: Expanding the data model to include city-level data for 
 
 ### Key DAX Measures Implemented
 To handle the mixed-unit nature of the `value` column, specific explicit DAX measures were created:
-
+```DAX
 Total EV Sales = 
 CALCULATE(
     SUM('IEA Global EV Data'[value]), 
