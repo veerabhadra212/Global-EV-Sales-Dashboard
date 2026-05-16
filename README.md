@@ -67,4 +67,4 @@ CALCULATE(
     SUM('IEA Global EV Data'[value]), 
     'IEA Global EV Data'[parameter] = "Electricity demand",
     'IEA Global EV Data'[unit] = "GWh"
-)```
+)
